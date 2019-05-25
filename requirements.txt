@@ -1,0 +1,4 @@
+Flask==1.0.2
+Flask_Bcrypt==0.7.1
+pymysql==0.9.3
+flask-mysql==1.1.1

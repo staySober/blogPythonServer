@@ -11,7 +11,7 @@
         {
             "label": "python",
             "type": "shell",
-            "command": "C:/Users/yuhou.tian/AppData/Local/Programs/Python/Python37/python",
+            "command": "/Library/Frameworks/Python.framework/Versions/3.7/bin/python3",
              "args": [
                 "${file}"
             ],

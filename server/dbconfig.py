@@ -2,7 +2,7 @@
 
 class DBConfig:
     user = 'root'
-    passwd = 'root'
+    passwd = 'sober'
     db = 'sober'
     host = 'localhost'
     charset = 'utf8'
